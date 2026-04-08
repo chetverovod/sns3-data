@@ -1,5 +1,7 @@
 ## Description
 
+LoRa variant of `constellation-eutelsat-geo-2-sats-isls` (`standard/standard.txt` is `LORA`).
+
 This scenario simulates a constellation of two GEO satellites: Eutelsat Konnect and Eutelsat Quantum.
 The satellites use ISL links.
 

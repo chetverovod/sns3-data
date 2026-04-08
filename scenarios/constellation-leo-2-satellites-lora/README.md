@@ -1,5 +1,7 @@
 ## Description
 
+LoRa variant of `constellation-leo-2-satellites` (`standard/standard.txt` is `LORA`).
+
 This scenario simulates two LEO satellites, using the TLE of the ISS.
 They are on the same orbit, following each other
 
