@@ -1,0 +1,4 @@
+# src dst rate_mbps priority
+UT-Alice SRV-Core 30 0
+UT-Bob SRV-Core 50 0
+UT-Carol SRV-Core 50 0

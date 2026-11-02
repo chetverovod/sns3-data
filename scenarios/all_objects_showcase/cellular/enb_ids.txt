@@ -1,0 +1,3 @@
+% ns3_id node_id
+0 BS-AIR
+1 BS-1

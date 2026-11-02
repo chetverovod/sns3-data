@@ -1,0 +1,2 @@
+% satId traceFile
+0 contrib/satellite/data/scenarios/lte_lena_simple/positions/HAPS-1_trace.txt

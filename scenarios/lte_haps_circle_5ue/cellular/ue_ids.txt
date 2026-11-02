@@ -1,0 +1,6 @@
+% ns3_id node_id
+0 UE-1
+1 UE-2
+2 UE-3
+3 UE-4
+4 UE-5

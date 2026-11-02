@@ -1,0 +1,2 @@
+% satId traceFile
+1 contrib/satellite/data/scenarios/lte_airborne_waypoints/positions/HAPS-2_trace.txt

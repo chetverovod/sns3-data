@@ -1,0 +1,16 @@
+# ряд расписания синтеза netsim, версия 1
+# beam: sns3_beam_id ref_lat_deg ref_lon_deg name
+# event: time_s sns3_beam_id lat_deg lon_deg freq_hz bandwidth_hz
+# прочерк — поле в этот момент не меняется
+meta t_start_s 0 t_end_s 60 n_samples 7 dt_s 10 jd0 2460311
+beam 2 48.5 135 UDL-1
+beam 1 48.5 135 UUL-1
+beam 4 48.54 135.06 FDL-1
+beam 3 48.54 135.06 FUL-1
+event 0 1 48.5 135 2.95e+10 250000000
+event 0 2 48.5 135 2e+10 250000000
+event 0 3 48.54 135.06 3e+10 250000000
+event 0 4 48.54 135.06 2e+10 250000000
+event 30 2 48.8 135.8 1.99e+10 250000000
+event 40 1 48.8 135.8 - -
+event 60 2 48.5 135 - -

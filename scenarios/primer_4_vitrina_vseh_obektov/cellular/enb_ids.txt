@@ -1,0 +1,2 @@
+% ns3_id node_id
+0 BS-1

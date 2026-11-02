@@ -1,0 +1,2 @@
+% ueId traceFile
+4 cellular/ue_UE_5.txt

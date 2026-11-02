@@ -1,0 +1,3 @@
+% ns3_id node_id
+0 UE-1
+1 UE-2
